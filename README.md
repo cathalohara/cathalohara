@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm a Dietitian with an interest in analysis of nutrition and dietetics data. 
+
+I'm currently doing a PhD involving the development and validation of a new too for dietary analysis and feedback.
+
+You can find out more about me here: about.me/cathalohara
+
+
 <!--
 **cathalohara/cathalohara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
