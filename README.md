@@ -2,7 +2,7 @@
 
 I'm a Dietitian with an interest in analysis of nutrition and dietetics data. 
 
-I'm currently doing a PhD involving the development and validation of a new tool for dietary analysis and feedback.
+I'm currently doing a PhD involving the development and validation of a new tool for dietary assessment and feedback.
 
 You can find out more about me here: https://about.me/cathalohara
 
